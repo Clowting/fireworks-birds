@@ -14,4 +14,4 @@ The analysis is separated over multiple notebook files, the following table give
 | explore_results.ipynb              | Contains the code for creating the timeline, exploring the results and running a regression to determine the firework effects |
 
 ## Overview of the data
-The data of the analysis is concentrated in the data folder, some folders, and files are not in the folder because they are too large for keeping in a GitHub repository.
+The data of the analysis is concentrated in the data folder, some folders, and files are not in the folder because they are too large for keeping in a GitHub repository. The data/db/collection.duckdb file contains the DuckDB database file with the timeline data and other collected datasets used for the analysis.
