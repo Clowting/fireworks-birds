@@ -1,4 +1,6 @@
 # Data exclusions
+data/audio/
+data/recordings/
 
 # Random files
 .DS_Store
